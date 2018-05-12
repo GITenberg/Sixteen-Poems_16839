@@ -23,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/William_Allingham
 description: This book is a collection of 16 poems by William Allingham, selected
   by William Butler Yeats.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16839#Sixteen-Poems
 gutenberg_issued: '2005-10-09'
 gutenberg_type: Text
 identifiers:
